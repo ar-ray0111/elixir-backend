@@ -1,1 +1,1 @@
-web: gunicorn 'elixir-backend.wsgi'
+web: gunicorn 'elixir_backend.wsgi'
