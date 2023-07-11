@@ -6,3 +6,6 @@ elixir_backend/__pycache__/*
 db.sqlite3
 *.png
 .idea/*
+.env
+.env
+dburl.txt
